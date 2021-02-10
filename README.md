@@ -4,7 +4,7 @@ CS 2150 Program and Data Representation Fall 2020 Assignment 6
 
 Assignment Instructions:
 
-            You need to implement a solution to the word puzzle problem described (look at Word_Search.png in main). 
+            You need to implement a solution to the word puzzle problem described (look at 10x10 Word_Search_Eg.png in main). 
             Given a dictionary and word search grid, your program should output all the words in the grid that are in the dictionary.
 
             There are two main parts: 

@@ -35,3 +35,4 @@ Assignment Instructions:
                 the wordPuzzle solver program itself (such as printing after all words are found 
                 instead of while they are being discovered), the program was able to solve 
                 the largest puzzle provided --500x500 word search grid-- in about 6 seconds. 
+                Accurately found all 3000+ words given in the dictionary.
